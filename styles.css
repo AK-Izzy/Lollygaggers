@@ -1,0 +1,14 @@
+h1{
+  color: rgb(244,66,95);
+  font-size: 30px;
+}
+
+p{
+  font-size: 15px;
+}
+
+
+div.crafttype img{
+  width: auto;
+  height: 300px;
+}
