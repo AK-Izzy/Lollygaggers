@@ -9,3 +9,19 @@ h1{
 p{
   margin: 2%;
 }
+
+.findus{
+  width:100%;
+}
+
+.socialmedia{
+  justify-content: center;
+  display:flex;
+  flex-direction: row;
+}
+
+div.socialmedia img{
+  width: 20px;
+  height: auto;
+  display: flex;
+}
