@@ -1,14 +1,3 @@
-h1{
-  color: rgb(244,66,95);
-  font-size: 30px;
-}
-
-div.socialmedia {
-  display: flex;
-  justify-content: center;
-}
-
-
 * {
             margin: 0;
             padding: 0;
@@ -23,14 +12,49 @@ div.socialmedia {
             margin: auto;
         }
 
-
+h1{
+  color: rgb(244,66,95);
+  font-size: 30px;
+}
 
 p{
   font-size: 15px;
+  width: 300px;
+}
+
+.table{
+  margin-top: 5%;
+  width: 100%;
+  height: 600px;
+  padding-left: 10%;
+  padding-right: 5%;
+}
+
+.td{
+  padding-left: 2%;
+  padding-right: 2%;
+  width: 50%;
+}
+
+.trial img{
+  height:300px;
+  width: auto;
 }
 
 
-div.crafttype img{
-  width: auto;
-  height: 300px;
+
+.findus{
+  width:100%;
+}
+
+.socialmedia{
+  justify-content: center;
+  display:flex;
+  flex-direction: row;
+}
+
+div.socialmedia img{
+  width: 20px;
+  height: auto;
+  display: flex;
 }
