@@ -52,6 +52,22 @@ body {
   font-size: 85%;
 }
 
+.findus{
+  width:100%;
+}
+
+.socialmedia{
+  justify-content: center;
+  display:flex;
+  flex-direction: row;
+}
+
+div.socialmedia img{
+  width: 20px;
+  height: auto;
+  display: flex;
+}
+
 footer {
   padding-top: 3rem;
   padding-bottom: 3rem;
